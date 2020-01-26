@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "962118807880",
+    "firebase_url": "https://projeto-diana-final.firebaseio.com",
+    "project_id": "projeto-diana-final",
+    "storage_bucket": "projeto-diana-final.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962118807880:android:cc81d2bfa06f9b3fa7c37d",
+        "android_client_info": {
+          "package_name": "br.com.stricksuper.projeto_diana_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962118807880-5ghgt1mmu854mi2u3l59ktlnvpjoro8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCau9Z9lEpdWl52gadmOaB_vmJh-LEJBew"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962118807880-5ghgt1mmu854mi2u3l59ktlnvpjoro8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
